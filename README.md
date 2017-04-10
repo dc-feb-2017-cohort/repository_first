@@ -33,5 +33,20 @@ added key to the whole project# Awesome project repository
 # Awesome second line
 awesome 4th line
 
+<<<<<<< HEAD
 # Awesome second line
 added key to the whole project
+=======
+need a 5th line
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+This was added by Todd
+>>>>>>> 0903aa7566a40d3b17372923cf43ee1999e63938
