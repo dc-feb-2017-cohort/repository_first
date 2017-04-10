@@ -1,13 +1,8 @@
 # Awesome project repository
-# Awesome second line
-
-
 added key to the whole project
-
 7th line
 # Awesome second line
 8th line
-
 # Awesome project repository
 # Awesome second line
 
